@@ -40,6 +40,10 @@
     width: 300px;
     border-radius: 5px;
     padding: 7px;
-    
-    
+}
+
+.cardapio{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
 }
